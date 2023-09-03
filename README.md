@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @catmeowjiao
+- 👀 I’m interested in Linux and Python
+- 🌱 I’m currently learning Linux, Python and C++
